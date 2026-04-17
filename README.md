@@ -37,7 +37,7 @@
 
 ### 🛠️ Tools & IDEs
 
-[![Tools](https://skillicons.dev/icons?i=eclipse,idea,visualstudio,vscode)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=eclipse,cisco,visualstudio,vscode)](https://skillicons.dev)
 
 ---
 
