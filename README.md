@@ -8,14 +8,25 @@
 
 ### 🙋 About Me
 
-- 🌱 Currently learning full stack and Web App development
-- 🔨 Building web & mobile apps with Angular & Ionic
-- 💬 Ask me about anything — I'm always happy to help
+- 🌱 2nd year in BSc Computing In Software Development at Atlantic Technological University 
+- 🔨 Currently building a game-fied habit tracker - Quest - using Ionic/Angular
+- 💬 Open to learn new technolgies and languages - ask me anything!
 ---
 
 ### 🛠️ My Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,cs,angular,ionic,ts,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,java)](https://skillicons.dev)
+
+---
+### 🛠️ Web Development
+
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,ts)](https://skillicons.dev)
+
+---
+
+### 🛠️ My Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=angular,ionic,react)](https://skillicons.dev)
 
 ---
 
@@ -28,5 +39,5 @@
 ---
 
 <p align="center">
-  💼 Open to collaborations and cool projects!
+  Open to collaborations and cool projects!
 </p>
