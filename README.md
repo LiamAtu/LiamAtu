@@ -13,7 +13,7 @@
 - 💬 Ask me about anything — I'm always happy to help
 ---
 
-### 🛠️ My Stack
+### 🛠️ My Languages
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,cs,angular,ionic,ts,js,html,css)](https://skillicons.dev)
 
@@ -21,9 +21,9 @@
 
 ### 📊 GitHub Stats
 
-![Liam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Liam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LiamAtu&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamAtu&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
