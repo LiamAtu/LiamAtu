@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Liam</h1>
 
-<!--
-**LiamAtu/LiamAtu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Student | 💻 Full Stack and Web Dev in the Making | 🚀 Always Learning
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🙋 About Me
+
+- 🌱 Currently learning full stack and Web App development
+- 🔨 Building web & mobile apps with Angular & Ionic
+- 💬 Ask me about anything — I'm always happy to help
+---
+
+### 🛠️ My Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,c,cs,angular,ionic,ts,js,html,css)](https://skillicons.dev)
+
+---
+
+### 📊 GitHub Stats
+
+![Liam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+<p align="center">
+  💼 Open to collaborations and cool projects!
+</p>
