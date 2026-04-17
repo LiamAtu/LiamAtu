@@ -37,7 +37,7 @@
 
 ### 🛠️ Tools & IDEs
 
-[![Tools](https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,)](https://skillicons.dev)![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,)](https://skillicons.dev)
 
 ---
 
